@@ -1,0 +1,4 @@
+source 'https://gems.ruby-china.org'
+#source 'https://icitymobile:F4CTnnF33yhZgzc5@rubygems.icitymobile.com:43443'
+gem 'pg', '0.17.1'
+gem 'rubyXL', '~> 3.3', '>= 3.3.22'
